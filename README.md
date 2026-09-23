@@ -40,8 +40,8 @@ I am a Software Engineer with over 8.5 years of experience designing and scaling
   <tr>
     <td><strong>Data & Storage</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Apache_Iceberg-3B82F6?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg"/>
       <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+      <img src="https://img.shields.io/badge/Apache_Iceberg-3B82F6?style=flat-square&logo=apache&logoColor=white" alt="Apache Iceberg"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/AWS_EMR-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS EMR"/>
       <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3"/>
@@ -116,6 +116,5 @@ Inspired by production codebases like `containerd`, I favor high cohesion, expli
 
 ## 📬 Contact & Links
 
-- **Bluesky**: [@kotoji.ithnote.blue](https://bsky.app/profile/kotoji.ithnote.blue)
 - **Email**: [kenichiro.kadowaki@ithnote.blue](mailto:kenichiro.kadowaki@ithnote.blue)
 - **Location**: Tokyo, Japan
