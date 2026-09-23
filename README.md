@@ -116,6 +116,6 @@ Inspired by production codebases like `containerd`, I favor high cohesion, expli
 
 ## 📬 Contact & Links
 
-- **GitHub**: [@kotoji](https://github.com/kotoji)
+- **Bluesky**: [@kotoji.ithnote.blue](https://bsky.app/profile/kotoji.ithnote.blue)
 - **Email**: [kenichiro.kadowaki@ithnote.blue](mailto:kenichiro.kadowaki@ithnote.blue)
-- **Location**: Tokyo, Japan
+- **Location**: Chiba, Japan
