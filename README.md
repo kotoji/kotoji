@@ -5,7 +5,6 @@
   <em>Building resilient data platforms, modular backend systems, and AI workflows with a focus on "Simple Made Easy" and "Correctness First".</em>
 </p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kotoji)
 [![Email](https://img.shields.io/badge/Email-kenichiro.kadowaki%40ithnote.blue-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kenichiro.kadowaki@ithnote.blue)
 [![Resume-EN](https://img.shields.io/badge/Resume-English-blue?style=flat-square&logo=read-the-docs&logoColor=white)](https://github.com/kotoji/resume/blob/main/resume-en.md)
 [![Resume-JA](https://img.shields.io/badge/職務経歴書-Japanese-green?style=flat-square&logo=read-the-docs&logoColor=white)](https://github.com/kotoji/resume/blob/main/resume.md)
