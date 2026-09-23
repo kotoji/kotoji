@@ -70,7 +70,6 @@ I am a Software Engineer with over 8.5 years of experience designing and scaling
     <td><strong>AI & Prototyping</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Mastra-000000?style=flat-square&logo=typescript&logoColor=white" alt="Mastra"/>
-      <img src="https://img.shields.io/badge/Dify-1677FF?style=flat-square&logo=openai&logoColor=white" alt="Dify"/>
       <img src="https://img.shields.io/badge/RAG_&_Vector_DB-412991?style=flat-square" alt="RAG"/>
       <img src="https://img.shields.io/badge/Prompt_Engineering-10A37F?style=flat-square" alt="Prompt Engineering"/>
     </td>
