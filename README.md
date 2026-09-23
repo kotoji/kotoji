@@ -114,5 +114,6 @@ Inspired by production codebases like `containerd`, I favor high cohesion, expli
 
 ## 📬 Contact & Links
 
+- **X.com**: [@ithnote](https://x.com/ithnote)
 - **Email**: [kenichiro.kadowaki@ithnote.blue](mailto:kenichiro.kadowaki@ithnote.blue)
 - **Location**: Tokyo, Japan
