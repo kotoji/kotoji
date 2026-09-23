@@ -16,9 +16,9 @@
 
 I am a Software Engineer with over 8.5 years of experience designing and scaling web backends, modern data infrastructure, and cloud systems.
 
-- 🔭 **Current Focus**: Modern Data Lakehouse architectures (**Apache Iceberg**, **Apache Spark**), distributed observability (**OpenTelemetry**), and AI agent workflows (**Mastra**, **Dify**).
+- 🔭 **Current Focus**: Modern Data Lakehouse architectures (**Apache Spark**, **Apache Iceberg**), AI agent workflows (**Mastra**) and RAG (**Bedrock KnowledgeBase**).
 - 🛠️ **Core Expertise**: Designing high-throughput Go backends (modular monoliths, gRPC), enterprise identity federation (Keycloak / OIDC), and declarative infrastructure as code (Terraform on AWS).
-- 🧠 **Roots**: Background in computational mathematics (M.S.) and scientific computing. Experience engineering numerical simulation software in **Haskell** (`mtl-style`) and building type-safe backend services in **Scala**.
+- 🧠 **Roots**: Background in mathematics (M.S.) and scientific computing. Experience engineering numerical simulation software in **Haskell** (`mtl-style`) and building type-safe backend services in **Scala**.
 
 ---
 
@@ -118,4 +118,4 @@ Inspired by production codebases like `containerd`, I favor high cohesion, expli
 
 - **Bluesky**: [@kotoji.ithnote.blue](https://bsky.app/profile/kotoji.ithnote.blue)
 - **Email**: [kenichiro.kadowaki@ithnote.blue](mailto:kenichiro.kadowaki@ithnote.blue)
-- **Location**: Chiba, Japan
+- **Location**: Tokyo, Japan
