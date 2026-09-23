@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am a Software Engineer with over 8.5 years of experience designing and scaling web backends, modern data infrastructure, and cloud systems.
+I am a Software Engineer with over 7.5 years of experience designing and scaling web backends, modern data infrastructure, and cloud systems.
 
 - 🔭 **Current Focus**: Modern Data Lakehouse architectures (**Apache Spark**, **Apache Iceberg**), AI agent workflows (**Mastra**) and RAG (**Bedrock KnowledgeBase**).
 - 🛠️ **Core Expertise**: Designing high-throughput Go backends (modular monoliths, gRPC), enterprise identity federation (Keycloak / OIDC), and declarative infrastructure as code (Terraform on AWS).
